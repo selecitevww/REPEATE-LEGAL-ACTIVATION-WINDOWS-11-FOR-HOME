@@ -1,1 +1,2 @@
 EXECUTE CMD AT ADMINISTRATOR!
+- zh.us.to (kms)
